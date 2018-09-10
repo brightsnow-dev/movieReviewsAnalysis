@@ -58,7 +58,7 @@ Implemented in `scikitlearnNB.ipynb`
 ## Requirements
 [[Back to top]](https://github.com/prodicus/movieReviewsAnalysis#movie-review-analysis)
 
-The simplest way(and the suggested way) would be to install the the required packages and the dependencies by using either [anaconda](https://www.continuum.io/downloads) or [miniconda](http://conda.pydata.org/miniconda.html)
+The simplest way(and the suggested way) would be to install the required packages and the dependencies by using either [anaconda](https://www.continuum.io/downloads) or [miniconda](http://conda.pydata.org/miniconda.html)
 
 After that you can do
 
